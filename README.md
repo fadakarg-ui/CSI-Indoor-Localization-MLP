@@ -1,4 +1,5 @@
 # Robust Indoor Localization via Wi-Fi CSI with a Custom Multilayer Perceptron
+*   **Video Presentation Link (only accessible via USC email):** [Video Presentation Link](https://drive.google.com/file/d/1pHdA8O6uaYTgyG10OZm-nIezuN4X_kuU/view?usp=sharing)
 
 ## Abstract
 This repository presents an implementation of an indoor localization system leveraging Wi-Fi Channel State Information (CSI) and a custom-built Multilayer Perceptron (MLP) for precise position estimation. The methodology involves efficient data loading, spatial fingerprinting, and rigorous evaluation against traditional machine learning baselines such as k-Nearest Neighbors (k-NN), Random Forest, Ridge Regression, Support Vector Regressor (SVR), and Decision Trees. The code, primarily developed in a Google Colab environment, demonstrates a from-scratch NumPy implementation of the MLP and robust data handling techniques for large CSI datasets. Performance analysis includes error vector mapping, and RMSE comparisons across varying numbers of Access Points (APs) and spatial grid resolutions.
